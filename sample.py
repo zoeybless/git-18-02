@@ -1,3 +1,3 @@
 #jesus is Lord
 
-print (" jesus is love ")
+print (" Jesus is love ")
